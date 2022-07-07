@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @009os
+- 👀 I’m interested in PYTHON/AI/ML/DATA SCIENCE
+- 🌱 I’m currently learning MCA
+- 📫 How to reach me linkedin.com/in/009os
