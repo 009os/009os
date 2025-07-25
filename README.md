@@ -25,6 +25,6 @@ I'm committed to growth and eager to contribute to innovative projects and colla
 
 - [Portfolio](https://009os.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/009os/)
-- Email: [](mailto:omshukla245@gmail.com)
+- [Email](mailto:omshukla245@gmail.com)
 
 ---
