@@ -18,12 +18,3 @@ I am an engineer with a strong foundation in backend development and a keen inte
 - **Tools:** Git, Swagger, Postman
 
 ---
-
-### 🤝 Let's Collaborate!
-I'm committed to growth and eager to contribute to innovative projects and collaborative teams.
-
-- [Portfolio](https://009os.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/009os/)
-- [Email](mailto:omshukla245@gmail.com)
-
----
