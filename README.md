@@ -1,5 +1,5 @@
 # Hi, I'm Omji Shukla 👋 
-## [Click to view Web-Portfolio](https://009os.vercel.app/)
+## [View Portfolio](https://009os.vercel.app/)
 
 ## Backend Engineer | Algorithmic Trading Enthusiast
 
