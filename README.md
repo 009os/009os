@@ -11,7 +11,7 @@ I am an engineer with a strong foundation in backend development and a keen inte
 
 ### 🛠️ Technical Skills
 
-- **Backend:** NestJS
+- **Backend:** NestJS, RESTful APIs
 - **Databases:** PostgreSQL, InfluxDB, Redis
 - **ORMs:** Prisma ORM
 - **Programming Languages:** TypeScript
