@@ -5,7 +5,7 @@
 
 ### 🚀 Professional Overview
 
-I am an engineer with a strong foundation in backend development and a keen interest in algorithmic crypto trading. My expertise ranges from architecting scalable microservices to implementing high-frequency trading algorithms and automation systems.
+I am an software engineer with a strong foundation in backend development and a keen interest in algorithmic crypto trading. My expertise ranges from architecting scalable microservices to implementing high-frequency trading algorithms and automation systems.
 
 ---
 
