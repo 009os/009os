@@ -28,7 +28,6 @@ I am an software engineer with a strong foundation in backend development and a 
 
 ### Languages & Backend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=plastic)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23000000.svg?style=plastic&logo=websocket&logoColor=white)
@@ -42,11 +41,9 @@ I am an software engineer with a strong foundation in backend development and a 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white)
 
 ### Infrastructure & Tooling
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
 ### Systems & Architecture
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-%23000000.svg?style=plastic)
