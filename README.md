@@ -34,7 +34,6 @@ I am an software engineer with a strong foundation in backend development and a 
 
 ### Data, Caching & Messaging
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=plastic&logo=redis&logoColor=white)
 ![Redis Pub/Sub](https://img.shields.io/badge/Redis%20Pub%2FSub-%23DC382D.svg?style=plastic&logo=redis&logoColor=white)
 ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-%23DF0000.svg?style=plastic&logo=zeromq&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=plastic&logo=InfluxDB&logoColor=white)
